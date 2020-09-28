@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/LRC/static/css/main.510f3613.chunk.css",
+    "main.js": "/LRC/static/js/main.443f54c5.chunk.js",
+    "main.js.map": "/LRC/static/js/main.443f54c5.chunk.js.map",
+    "runtime-main.js": "/LRC/static/js/runtime-main.34e9e808.js",
+    "runtime-main.js.map": "/LRC/static/js/runtime-main.34e9e808.js.map",
+    "static/css/2.2d647298.chunk.css": "/LRC/static/css/2.2d647298.chunk.css",
+    "static/js/2.717a63b8.chunk.js": "/LRC/static/js/2.717a63b8.chunk.js",
+    "static/js/2.717a63b8.chunk.js.map": "/LRC/static/js/2.717a63b8.chunk.js.map",
+    "index.html": "/LRC/index.html",
+    "precache-manifest.aca32f291d6dc67b2760a34cdc1b393b.js": "/LRC/precache-manifest.aca32f291d6dc67b2760a34cdc1b393b.js",
+    "service-worker.js": "/LRC/service-worker.js",
+    "static/css/2.2d647298.chunk.css.map": "/LRC/static/css/2.2d647298.chunk.css.map",
+    "static/css/main.510f3613.chunk.css.map": "/LRC/static/css/main.510f3613.chunk.css.map",
+    "static/js/2.717a63b8.chunk.js.LICENSE.txt": "/LRC/static/js/2.717a63b8.chunk.js.LICENSE.txt",
+    "static/media/Librarian1.jpg": "/LRC/static/media/Librarian1.7874145b.jpg",
+    "static/media/Librarian2.jpg": "/LRC/static/media/Librarian2.4ea5852a.jpg",
+    "static/media/Librarian3.jpg": "/LRC/static/media/Librarian3.5a67b8b9.jpg",
+    "static/media/mdb.css": "/LRC/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/destiny.jpg": "/LRC/static/media/destiny.cc49acd0.jpg",
+    "static/media/all.min.css": "/LRC/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/lrc1.3.jpg": "/LRC/static/media/lrc1.3.1997477e.jpg",
+    "static/media/lrc2.1.jpg": "/LRC/static/media/lrc2.1.36fe3714.jpg",
+    "static/media/lrc3.1.jpg": "/LRC/static/media/lrc3.1.2ded2f5c.jpg",
+    "static/media/lrc4.1.jpg": "/LRC/static/media/lrc4.1.404ccad1.jpg",
+    "static/media/lrc5.1.jpg": "/LRC/static/media/lrc5.1.653ebc9e.jpg",
+    "static/media/lrc6.jpg": "/LRC/static/media/lrc6.74293f43.jpg",
+    "static/media/lrc7.jpg": "/LRC/static/media/lrc7.ed6ef92b.jpg",
+    "static/media/mini-logo.png": "/LRC/static/media/mini-logo.f24ba0b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34e9e808.js",
+    "static/css/2.2d647298.chunk.css",
+    "static/js/2.717a63b8.chunk.js",
+    "static/css/main.510f3613.chunk.css",
+    "static/js/main.443f54c5.chunk.js"
+  ]
+}
