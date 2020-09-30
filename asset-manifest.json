@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/LRC/static/css/main.3ffa6eb9.chunk.css",
-    "main.js": "/LRC/static/js/main.8950fdb0.chunk.js",
-    "main.js.map": "/LRC/static/js/main.8950fdb0.chunk.js.map",
+    "main.css": "/LRC/static/css/main.67494dda.chunk.css",
+    "main.js": "/LRC/static/js/main.1da580c5.chunk.js",
+    "main.js.map": "/LRC/static/js/main.1da580c5.chunk.js.map",
     "runtime-main.js": "/LRC/static/js/runtime-main.34e9e808.js",
     "runtime-main.js.map": "/LRC/static/js/runtime-main.34e9e808.js.map",
     "static/css/2.2d647298.chunk.css": "/LRC/static/css/2.2d647298.chunk.css",
-    "static/js/2.3f3333ec.chunk.js": "/LRC/static/js/2.3f3333ec.chunk.js",
-    "static/js/2.3f3333ec.chunk.js.map": "/LRC/static/js/2.3f3333ec.chunk.js.map",
+    "static/js/2.a919a6be.chunk.js": "/LRC/static/js/2.a919a6be.chunk.js",
+    "static/js/2.a919a6be.chunk.js.map": "/LRC/static/js/2.a919a6be.chunk.js.map",
     "index.html": "/LRC/index.html",
-    "precache-manifest.2bff0d9083c6a83f92928f6805ea7db9.js": "/LRC/precache-manifest.2bff0d9083c6a83f92928f6805ea7db9.js",
+    "precache-manifest.5caeab5a6d790289faef458f07b93cec.js": "/LRC/precache-manifest.5caeab5a6d790289faef458f07b93cec.js",
     "service-worker.js": "/LRC/service-worker.js",
     "static/css/2.2d647298.chunk.css.map": "/LRC/static/css/2.2d647298.chunk.css.map",
-    "static/css/main.3ffa6eb9.chunk.css.map": "/LRC/static/css/main.3ffa6eb9.chunk.css.map",
-    "static/js/2.3f3333ec.chunk.js.LICENSE.txt": "/LRC/static/js/2.3f3333ec.chunk.js.LICENSE.txt",
+    "static/css/main.67494dda.chunk.css.map": "/LRC/static/css/main.67494dda.chunk.css.map",
+    "static/js/2.a919a6be.chunk.js.LICENSE.txt": "/LRC/static/js/2.a919a6be.chunk.js.LICENSE.txt",
     "static/media/Librarian1.jpg": "/LRC/static/media/Librarian1.7874145b.jpg",
     "static/media/Librarian2.jpg": "/LRC/static/media/Librarian2.4ea5852a.jpg",
     "static/media/Librarian3.jpg": "/LRC/static/media/Librarian3.5a67b8b9.jpg",
     "static/media/mdb.css": "/LRC/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/destiny.png": "/LRC/static/media/destiny.ab441834.png",
     "static/media/destiny.jpg": "/LRC/static/media/destiny.cc49acd0.jpg",
     "static/media/all.min.css": "/LRC/static/media/fa-solid-900.ee09ad75.woff",
     "static/media/lrc1.3.jpg": "/LRC/static/media/lrc1.3.1997477e.jpg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.34e9e808.js",
     "static/css/2.2d647298.chunk.css",
-    "static/js/2.3f3333ec.chunk.js",
-    "static/css/main.3ffa6eb9.chunk.css",
-    "static/js/main.8950fdb0.chunk.js"
+    "static/js/2.a919a6be.chunk.js",
+    "static/css/main.67494dda.chunk.css",
+    "static/js/main.1da580c5.chunk.js"
   ]
 }
