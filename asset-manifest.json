@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LRC/static/css/main.17146637.chunk.css",
-    "main.js": "/LRC/static/js/main.e7fb0d53.chunk.js",
-    "main.js.map": "/LRC/static/js/main.e7fb0d53.chunk.js.map",
+    "main.css": "/LRC/static/css/main.ccaa0e6f.chunk.css",
+    "main.js": "/LRC/static/js/main.d8879657.chunk.js",
+    "main.js.map": "/LRC/static/js/main.d8879657.chunk.js.map",
     "runtime-main.js": "/LRC/static/js/runtime-main.34e9e808.js",
     "runtime-main.js.map": "/LRC/static/js/runtime-main.34e9e808.js.map",
-    "static/css/2.fa8b2ea6.chunk.css": "/LRC/static/css/2.fa8b2ea6.chunk.css",
-    "static/js/2.315ee6c2.chunk.js": "/LRC/static/js/2.315ee6c2.chunk.js",
-    "static/js/2.315ee6c2.chunk.js.map": "/LRC/static/js/2.315ee6c2.chunk.js.map",
+    "static/css/2.2d647298.chunk.css": "/LRC/static/css/2.2d647298.chunk.css",
+    "static/js/2.4bbaeab0.chunk.js": "/LRC/static/js/2.4bbaeab0.chunk.js",
+    "static/js/2.4bbaeab0.chunk.js.map": "/LRC/static/js/2.4bbaeab0.chunk.js.map",
     "index.html": "/LRC/index.html",
-    "precache-manifest.8615dc03177f6310b946a50142a45ac8.js": "/LRC/precache-manifest.8615dc03177f6310b946a50142a45ac8.js",
+    "precache-manifest.0b24717987ca9532c4b874e0af6614e6.js": "/LRC/precache-manifest.0b24717987ca9532c4b874e0af6614e6.js",
     "service-worker.js": "/LRC/service-worker.js",
-    "static/css/2.fa8b2ea6.chunk.css.map": "/LRC/static/css/2.fa8b2ea6.chunk.css.map",
-    "static/css/main.17146637.chunk.css.map": "/LRC/static/css/main.17146637.chunk.css.map",
-    "static/js/2.315ee6c2.chunk.js.LICENSE.txt": "/LRC/static/js/2.315ee6c2.chunk.js.LICENSE.txt",
+    "static/css/2.2d647298.chunk.css.map": "/LRC/static/css/2.2d647298.chunk.css.map",
+    "static/css/main.ccaa0e6f.chunk.css.map": "/LRC/static/css/main.ccaa0e6f.chunk.css.map",
+    "static/js/2.4bbaeab0.chunk.js.LICENSE.txt": "/LRC/static/js/2.4bbaeab0.chunk.js.LICENSE.txt",
     "static/media/Librarian1.jpg": "/LRC/static/media/Librarian1.7874145b.jpg",
     "static/media/Librarian2.jpg": "/LRC/static/media/Librarian2.4ea5852a.jpg",
     "static/media/Librarian3.jpg": "/LRC/static/media/Librarian3.5a67b8b9.jpg",
@@ -32,9 +32,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.34e9e808.js",
-    "static/css/2.fa8b2ea6.chunk.css",
-    "static/js/2.315ee6c2.chunk.js",
-    "static/css/main.17146637.chunk.css",
-    "static/js/main.e7fb0d53.chunk.js"
+    "static/css/2.2d647298.chunk.css",
+    "static/js/2.4bbaeab0.chunk.js",
+    "static/css/main.ccaa0e6f.chunk.css",
+    "static/js/main.d8879657.chunk.js"
   ]
 }
