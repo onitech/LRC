@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LRC/static/css/main.ccaa0e6f.chunk.css",
+    "main.css": "/LRC/static/css/main.8a3da39c.chunk.css",
     "main.js": "/LRC/static/js/main.d8879657.chunk.js",
     "main.js.map": "/LRC/static/js/main.d8879657.chunk.js.map",
     "runtime-main.js": "/LRC/static/js/runtime-main.34e9e808.js",
@@ -9,10 +9,10 @@
     "static/js/2.4bbaeab0.chunk.js": "/LRC/static/js/2.4bbaeab0.chunk.js",
     "static/js/2.4bbaeab0.chunk.js.map": "/LRC/static/js/2.4bbaeab0.chunk.js.map",
     "index.html": "/LRC/index.html",
-    "precache-manifest.0b24717987ca9532c4b874e0af6614e6.js": "/LRC/precache-manifest.0b24717987ca9532c4b874e0af6614e6.js",
+    "precache-manifest.39f80ab0ce1ad55f70884fa0bf24ec9f.js": "/LRC/precache-manifest.39f80ab0ce1ad55f70884fa0bf24ec9f.js",
     "service-worker.js": "/LRC/service-worker.js",
     "static/css/2.2d647298.chunk.css.map": "/LRC/static/css/2.2d647298.chunk.css.map",
-    "static/css/main.ccaa0e6f.chunk.css.map": "/LRC/static/css/main.ccaa0e6f.chunk.css.map",
+    "static/css/main.8a3da39c.chunk.css.map": "/LRC/static/css/main.8a3da39c.chunk.css.map",
     "static/js/2.4bbaeab0.chunk.js.LICENSE.txt": "/LRC/static/js/2.4bbaeab0.chunk.js.LICENSE.txt",
     "static/media/Librarian1.jpg": "/LRC/static/media/Librarian1.7874145b.jpg",
     "static/media/Librarian2.jpg": "/LRC/static/media/Librarian2.4ea5852a.jpg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.34e9e808.js",
     "static/css/2.2d647298.chunk.css",
     "static/js/2.4bbaeab0.chunk.js",
-    "static/css/main.ccaa0e6f.chunk.css",
+    "static/css/main.8a3da39c.chunk.css",
     "static/js/main.d8879657.chunk.js"
   ]
 }
